@@ -24,6 +24,8 @@ def submit():
         
         # Save data to the database
         cur = mysql.connection.cursor()
+        #Auto increment id to prevent duplicate primary keys
+        cur.execute("ALTER TABLE enslaved_person MODIFY COLUMN Enslaved_Person_ID INT AUTO_INCREMENT")
         cur.execute("INSERT INTO enslaved_person(First_Name, Last_Name) VALUES (%s, %s)", (first_name, last_name))
         mysql.connection.commit()
         cur.close()
