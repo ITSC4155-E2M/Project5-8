@@ -17,6 +17,14 @@ Follow these instructions for creating a user account on the production website 
   <li>Feel free to add a comment to the form.</li>
 </ol>
 
+### Instructions for testing Church Webpages
+<ol>
+  <li>Visit the production website at https://www.equitymemorymemorial.org/</li>
+  <li>Navigate to the "Churches" dropdown list at the top of the screen.</li>
+  <li>Select any church page to visit.</li>
+  <li>NOTE: all of the pages are blank at this point and will be enhanced in future user stories.</li>
+</ol>
+
 ### Instructions for testing the database_input_form
 These instructions are using VS Code as the IDE.
 <ol>
