@@ -1,6 +1,22 @@
 # E2M
 
 ## Project 7
+### Instructions for creating a user account
+Follow these instructions for creating a user account on the production website environment. Note these user accounts will be for the community to engage in an open forum. (Future update will require email verification, but is disabled for now.)
+<ol>
+  <li>Visit the production website at https://www.equitymemorymemorial.org/</li>
+  <li>Navigate to the "Forum" page at the top, right of the screen.</li>
+  <li>Select the "Register" option.</li>
+    <ol>
+      <li>Create a user name.</li>
+      <li>Add your email address.</li>
+      <li>Create a password.</li>
+      <li>Confirm password.</li>
+      <li>NOTE: Your account will be deactivate and deleted once the class ends, before the site is advertised as live to the client.</li>
+    </ol>
+  <li>Feel free to add a comment to the form.</li>
+</ol>
+
 ### Instructions for testing the database_input_form
 These instructions are using VS Code as the IDE.
 <ol>
@@ -23,7 +39,6 @@ These instructions are using VS Code as the IDE.
       <li>Leave the default connection method.</li>
       <li>Hostname = ls-b640ee9303d25068be488588342687643e09a864.cte0si8k44ty.us-east-1.rds.amazonaws.com</li>
       <li>Port = 3306</li>
-      <li>Username = dbmasteruser</li>
       <li>Username = dbmasteruser</li>
       <li>Password (use Store in Vault...) =3qu1tym3m0rym3m0r1al</li>
       <li>Test Connection, if good then select OK</li>
