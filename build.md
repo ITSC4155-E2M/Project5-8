@@ -56,6 +56,14 @@ These instructions are using VS Code as the IDE.
   <li>Open Tables, then open the "enslaved_person" table.</li>
   <li>Verifiy the name you entered as a code test is present.</li>
 </ol>
+
+### Instructions for testing Dontations button
+<ol>
+  <li>Visit the production website at https://www.equitymemorymemorial.org/</li>
+  <li>Navigate to the "Donations" button top, right of the screen.</li>
+  <li>This button takes you to the UNCC donations webpage.</li>
+</ol>
+
 <br>
 Issues contact Nathan Schaaf at nschaaf@uncc.edu or 678-200-7438
 
