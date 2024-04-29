@@ -1,5 +1,14 @@
 # E2M
 
+## Project 8
+<ol>
+  <li>First, view our project summary video E2M_Summary at https://studentuncc-my.sharepoint.com/:v:/g/personal/nschaaf_uncc_edu/EbYLkF1O84hClwzG1Cyd5ckBBpzhtK32XQObls-sdayKaw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n18a8e</li>
+  <li>Visit the production website at https://www.equitymemorymemorial.org/</li>
+  <li>Refer to Project 7 instructions below.</li>
+  <li>NOTE: This project will continue after the class ends by some of the team members.</li>
+</ol>
+
+
 ## Project 7
 ### Instructions for creating a user account
 Follow these instructions for creating a user account on the production website environment. Note these user accounts will be for the community to engage in an open forum. (Future update will require email verification, but is disabled for now.)
